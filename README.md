@@ -1,5 +1,5 @@
 # Ecommerce API
-# Hostinglink : https://e-commerce-api-2t0k.onrender.com
+# Hosted Link : https://e-commerce-api-2t0k.onrender.com
 # ABOUT
 This is an E-commerce API made using Node.Js & MongoDB. 
 STEPS TO USE THE API:
